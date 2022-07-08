@@ -9,7 +9,7 @@ namespace _01_Abstract
         static void Main(string[] args)
         {
 
-            //Asbtract class içerisinde ne tür yapılar tanımlanabilir ?
+            //Asbtract class içerisinde ne tür yapılar tanımlanabilir??
             // - Static ve static olmayan field , property , indexer , metodlar tanımlanabilir. Herhangi bir class'ta yapılan bir çok şeyi abstract class içerisinde tanımlanabilir.
 
 
