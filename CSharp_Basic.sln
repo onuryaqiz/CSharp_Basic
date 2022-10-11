@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "062_Ctor_Overload", "062_Ct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_ExtensionMethod", "16_ExtensionMethod\16_ExtensionMethod.csproj", "{1B9FC669-5EFD-41D5-A8DD-F86C8350F590}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "161_GenericExtensionMethod", "161_GenericExtensionMethod\161_GenericExtensionMethod.csproj", "{73678A85-CCBC-4253-AB37-D2376273FB5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{1B9FC669-5EFD-41D5-A8DD-F86C8350F590}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B9FC669-5EFD-41D5-A8DD-F86C8350F590}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B9FC669-5EFD-41D5-A8DD-F86C8350F590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73678A85-CCBC-4253-AB37-D2376273FB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73678A85-CCBC-4253-AB37-D2376273FB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73678A85-CCBC-4253-AB37-D2376273FB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73678A85-CCBC-4253-AB37-D2376273FB5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
