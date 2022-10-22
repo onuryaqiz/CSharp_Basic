@@ -15,7 +15,7 @@ namespace _01_Delegate
 
     // Delege'nin 2 amacı ; 
     // 1- Method adreslerini daha sonra kullanmak üzere saklamak (Event'lar bu mantıkla oluşur.)
-    // Bir methoda parametre olarak başka bir methodu adresiyle geçmek (LINQ ve Entity Framework'de toğun şekilde kullanılır.)
+    // Bir methoda parametre olarak başka bir methodu adresiyle geçmek (LINQ ve Entity Framework'de yoğun şekilde kullanılır.)
 
     //( Temsilci adında bir tip tanımlandı. Bu tipin nesneleri, çalışma zamanında geriye bir şey dönmeyen ve parametre almayan tüm methodları işaret edebilir.
     delegate void Temsilci();
