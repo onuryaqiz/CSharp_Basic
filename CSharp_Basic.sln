@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Encapsulation", "01_Enca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Encapsulation_Property", "02_Encapsulation_Property\02_Encapsulation_Property.csproj", "{51803425-7781-47A2-852E-69B1B0B2E75A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Encapsulation_Property", "03_Encapsulation_Property\03_Encapsulation_Property.csproj", "{1E37FC65-E107-40F7-8B41-CE78C752AC34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -173,6 +175,10 @@ Global
 		{51803425-7781-47A2-852E-69B1B0B2E75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51803425-7781-47A2-852E-69B1B0B2E75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51803425-7781-47A2-852E-69B1B0B2E75A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E37FC65-E107-40F7-8B41-CE78C752AC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E37FC65-E107-40F7-8B41-CE78C752AC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E37FC65-E107-40F7-8B41-CE78C752AC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E37FC65-E107-40F7-8B41-CE78C752AC34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -180,6 +186,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{1D7B4D9C-829A-4ECA-B20C-25811FE27A4D} = {12227E94-21B8-4BC0-9550-6830F63B42A3}
 		{51803425-7781-47A2-852E-69B1B0B2E75A} = {12227E94-21B8-4BC0-9550-6830F63B42A3}
+		{1E37FC65-E107-40F7-8B41-CE78C752AC34} = {12227E94-21B8-4BC0-9550-6830F63B42A3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BDD2A2-6DD5-49E3-A7EA-FACF2B6B484B}
