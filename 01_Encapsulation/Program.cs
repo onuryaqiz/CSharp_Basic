@@ -23,7 +23,7 @@ namespace _01_Encapsulation
             try
             {
                 // ilk değer belirlendi
-                order.set_price(10);
+                order.set_price(200);
                 Console.WriteLine("Fiyat giriniz: ");
                 int newPrice = Convert.ToInt32(Console.ReadLine());
 
